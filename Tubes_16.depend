@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672650138 source:c:\alif\kuliah\matkul semester 3\struktur data\tubes\tubes_16\main.cpp
+	<iostream>
+	"tubes.h"
+
+1672382374 c:\alif\kuliah\matkul semester 3\struktur data\tubes\tubes_16\tubes.h
+	<iostream>
+
+1672649879 source:c:\alif\kuliah\matkul semester 3\struktur data\tubes\tubes_16\tubes.cpp
+	"tubes.h"
+
